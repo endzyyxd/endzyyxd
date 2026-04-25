@@ -33,5 +33,5 @@
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <div align="center">
-<a href="https://discord.com/users/979499507299516426"><img src="https://lanyard.cnrad.dev/api/979499507299516426?theme=dark&showDisplayName=true" /></a>
+<a href="https://discord.com/users/979499507299516426"><img src="https://lanyard.cnrad.dev/api/979499507299516426?idleMessage=discord.gg%2Fendscripts&theme=dark" /></a>
 </div>
